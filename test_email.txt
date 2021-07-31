@@ -1,0 +1,5 @@
+Subject: This is a test email
+From: cron@localhost
+Date: Sun, 02 Oct 2021 07:06:22 -0400 (EDT)
+
+This is the plaintext version, in utf-8. Proof by Euro: €
